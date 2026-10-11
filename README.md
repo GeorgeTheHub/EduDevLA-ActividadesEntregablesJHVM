@@ -9,6 +9,10 @@ de observación, no se recomienda como guía directa, ya que no está hecho con 
 mejores prácticas, y, se usó moderadamente herramientas de IA para su complención.
 
 BASADO EN EL CURSO DE:
+
 https://edu.devf.la/campus/
+
 REFERENCIAS:
+
 https://inteligencia-artificial-aplicada-llama.vercel.app/index.html#introduccion
+(Creado por Ing. Jesús Olvera)
